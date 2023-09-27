@@ -1,1 +1,1 @@
-# Study
+# typescript-challenge
